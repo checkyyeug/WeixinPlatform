@@ -54,6 +54,8 @@
 - **[架构设计 (ARCHITECTURE.md)](ARCHITECTURE.md)**: 了解项目的整体架构和组件设计。
 - **[API 设计 (API_DESIGN.md)](API_DESIGN.md)**: 查看详细的后端 API 接口文档。
 - **[前端设计 (FRONTEND_DESIGN.md)](FRONTEND_DESIGN.md)**: 查看前端状态管理、组件和目录结构设计。
+- **[开发计划 (ROADMAP.md)](ROADMAP.md)**: 查看详细的项目开发任务和路线图。
+- **[部署指南 (DEPLOYMENT.md)](DEPLOYMENT.md)**: 查看如何将项目部署到生产服务器。
 
 ---
 *该项目由 AI 辅助设计和生成。*
